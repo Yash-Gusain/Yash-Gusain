@@ -1,5 +1,4 @@
-# YAGETO
-# Hi 👋, I'm Yash Gusain
+ Hi 👋, I'm Yash Gusain
 
 🎓 Student | 💻 Beginner Developer  
 🌱 Currently learning: C, Python, Web Development  

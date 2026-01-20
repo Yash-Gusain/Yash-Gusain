@@ -1,8 +1,8 @@
  Hi 👋, I'm Yash Gusain
 
-🎓 Student | 💻 Beginner Developer  
+🎓 Student | 💻 Beginner   
 🌱 Currently learning: C, Python, Web Development  
-🚀 Interested in: Data Structures, Open Source, AI  
+🚀 Interested in: Data Structures,Arduino, AI  
 
 ## 🛠 Skills
 - C
